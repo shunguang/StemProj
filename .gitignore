@@ -1,0 +1,73 @@
+# some word and ppt files
+*.html
+*.mat
+*.mov
+*.png
+*.jpg
+*.mp4
+*.bak
+
+
+# Prerequisites
+*.d
+*.user
+*.tlog
+*.obj
+*.log
+*.asv
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+*.pb
+*.hgt
+*.h5
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Other files 
+*.bin
+*.clang-format
+*.clang-tidy
+
+
+#--------------------------
+#folders to ignore
+#--------------------------
+tmp/
+build*/
+backup/
+.vscode/
+.vs/
+x64/
+Debug/
+Release/
+
+
+
+
+
